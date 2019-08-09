@@ -1,2 +1,2 @@
-# proj-omics
-Tools for processing GC and LC metabolomics data
+# uihh_nowusu
+University of Iowa HackHour
